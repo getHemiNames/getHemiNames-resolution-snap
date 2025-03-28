@@ -1,0 +1,32 @@
+{
+  "version": "0.1.0",
+  "description": "getHemiNames Resolver",
+  "proposedName": "getHemiNames Resolver",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getHemiNames/getHemiNames-resolution-snap.git"
+  },
+  "source": {
+    "shasum": "lSxgCtkv9Fs8MlOxO1w38ixmuhp0YYbgvUe/WBqiw5w=",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "packageName": "getheminames_resolver",
+        "registry": "https://registry.npmjs.org/",
+        "iconPath": "images/logo.svg"
+      }
+    }
+  },
+  "initialPermissions": {
+    "endowment:name-lookup": {
+      "chains": ["eip155:43111"],
+      "matchers": {
+        "tlds": ["hemi"]
+      }
+    },
+    "endowment:network-access": {},
+    "endowment:page-home": {}
+  },
+  "platformVersion": "6.18.0",
+  "manifestVersion": "0.1"
+}
