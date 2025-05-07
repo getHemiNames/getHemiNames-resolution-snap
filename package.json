@@ -1,6 +1,6 @@
 {
   "name": "getheminames_resolver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This plugin includes the npm package to install as snap on metamask to resolve domains from getHemiNames",
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@metamask/snaps-sdk": "~6.18.0",
+    "@metamask/snaps-sdk": "~6.16.0",
     "viem": "^2.22.8"
   },
   "devDependencies": {
