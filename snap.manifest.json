@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "getHemiNames Resolver",
   "proposedName": "getHemiNames Resolver",
   "repository": {
@@ -7,7 +7,7 @@
     "url": "https://github.com/getHemiNames/getHemiNames-resolution-snap.git"
   },
   "source": {
-    "shasum": "UVeo8AKNGAe2WdHwcCXGrTCVgpT5JMJSdPBwDR60xyI=",
+    "shasum": "qGq6KkKi1lDzr00zoIN4GgDc8CHYsjUhMzaYtY0bKcQ=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
